@@ -146,10 +146,19 @@ int main()
 ~~~
 
 ## Output screen shots :
-![image](https://user-images.githubusercontent.com/94165322/195999413-91c47fd2-8248-4301-99db-3a63c79fbb6e.png)
+## LED OFF
+![naoff](https://user-images.githubusercontent.com/94165322/196000372-9f7af2e7-de86-4dbe-a901-03f804be2cac.png)
+
+## LED ON
+![naon](https://user-images.githubusercontent.com/94165322/196000381-6ed8038e-58c8-4db3-a65f-116176fb79e5.png)
+
+
+
 
 ## CIrcuit Diagram:
-![image](https://user-images.githubusercontent.com/94165322/195999449-aee926c8-7b06-42a1-a859-a811ef7c565f.png)
+![image](https://user-images.githubusercontent.com/94165322/196000401-d5e13478-1e28-47fe-81c6-337f9fef0968.png)
+
+
 
  
 ## Result :
